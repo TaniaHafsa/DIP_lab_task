@@ -1,0 +1,5 @@
+Upload the image(DIP_Lab_task_01.png) from drive with extracting details like: image dimension, frequency distribution of intensities, range.
+Convert the RGB image(DIP_Lab_task_02.jpg) to a gray scale image and compare a sub-region of the image by intensity values(5*5 dimension would be enough for comparison).
+Apply Image(DIP_Lab_task_03.png) smoothing with appropriate kernel applied. Identify the noise(if any) before processing.
+Implement an appropriate technique to reduce the brightness of the provided image (DIP_Lab_task_04.jpg) effectively.
+Solve the segmentation problem for the given image: 'DIP_Lab_task_05.jpg'
